@@ -6,5 +6,6 @@
     end
   
     def edit
+      @user = User.
     end
   end
